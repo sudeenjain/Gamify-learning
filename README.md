@@ -56,7 +56,7 @@ You can host it on GitHub Pages (as done here) or any static site host.
 
 Example:
 
-![Homepage screenshot](path/to/screenshot.png)
+![Homepage screenshot](https://github.com/sudeenjain/codemeet-phoneix/blob/main/demo--screenshots.png)
 
 ---
 
@@ -98,4 +98,5 @@ codemeet-phoneix/
 │   └── fonts/
 ├── README.md
 └── LICENSE
+
 
