@@ -52,10 +52,6 @@ You can host it on GitHub Pages (as done here) or any static site host.
 
 ## Demo / Screenshots
 
-> You may insert screenshots here.  
-
-Example:
-
 ![Homepage screenshot](https://github.com/sudeenjain/codemeet-phoneix/blob/main/demo--screenshots.png)
 
 ---
@@ -98,5 +94,6 @@ codemeet-phoneix/
 │   └── fonts/
 ├── README.md
 └── LICENSE
+
 
 
